@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.0.2)
+  - ZFPlayer (2.1.5):
+    - Masonry
+
+DEPENDENCIES:
+  - ZFPlayer
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  ZFPlayer: 8a80bf8eb4638b97fbceaefcd3ca9978e9f17c9d
+
+PODFILE CHECKSUM: 08036d023858751a5092045f48b8d8f0c502a194
+
+COCOAPODS: 1.2.0

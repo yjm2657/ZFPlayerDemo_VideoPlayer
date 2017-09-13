@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+- (IBAction)playBtnClick:(UIButton *)sender;
 
 
 @end
